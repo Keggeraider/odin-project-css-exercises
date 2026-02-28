@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.number {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numbertwo {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+.number.cooler {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
